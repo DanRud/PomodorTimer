@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(tlo.jpg);
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+
+.container {
+    padding-top: 100px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 64px;
+}
+
+p.num {
+    font-size: 64px;
+}
+
+p.quote {
+    font-size: 36px;
+    margin-top: 30px;
+}
+
+button.start {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-decoration: none;
+    border: none;
+    color: white;
+    font-size: 36px;
+    padding: 15px 32px;
+    background: transparent;
+    border: 1px solid lightgray;
+}    
+
+button.reset {
+    display: none;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-decoration: none;
+    border: none;
+    color: white;
+    font-size: 36px;
+    padding: 15px 32px;
+    background-color: transparent; 
+    border: 1px solid lightgray;
+}    
+
+
+
+
